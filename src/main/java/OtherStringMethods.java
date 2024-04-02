@@ -34,6 +34,8 @@ public class OtherStringMethods {
         }else{
         return 0;
         }
+        // (or)
+       // return s1.compareTo(s2);
     }
 
     /**
